@@ -29,7 +29,6 @@ The goal is to identify which customers are at high risk of leaving and understa
   - `OnlineSecurity`, `TechSupport`
   - `PaymentMethod`
 
-> You can replace this section with the actual dataset source (e.g., Kaggle Telco Customer Churn dataset) if applicable.
 
 ---
 
